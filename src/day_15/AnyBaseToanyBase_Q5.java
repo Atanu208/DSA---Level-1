@@ -1,5 +1,4 @@
 package day_15;
-
 import java.util.Scanner;
 
 public class AnyBaseToanyBase_Q5 {
